@@ -3,7 +3,7 @@
   "displayName": "WDP",
   "description": "Bu proje, web geliştirme için gerekli olan eklentileri içerir.",
   "version": "0.0.1",
-  "publisher": "sertinel",
+  "publisher": "Sertinel",
   "engines": {
     "vscode": "^1.50.0"
   },
@@ -23,6 +23,7 @@
     "dzhavat.bracket-pair-toggler",
     "kisstkondoros.vscode-gutter-preview",
     "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
     "Zignd.html-css-class-completion",
     "ms-vscode.vscode-typescript-next",
     "vscode-icons-team.vscode-icons",
@@ -40,7 +41,8 @@
     "IBM.output-colorizer",
     "christian-kohler.npm-intellisense",
     "unifiedjs.vscode-mdx",
-    "ms-windows-ai-studio.windows-ai-studio"
+    "ms-windows-ai-studio.windows-ai-studio",
+    "ms-vscode.live-server"
   ],
   "repository": {
     "type": "git",
