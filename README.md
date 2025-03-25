@@ -1,13 +1,6 @@
 # WDP (Web Devoloper Packs)
-<style>
-  img {
-    max-width: 200px; /* Resmin genişliğini %100'e ayarlayarak, kapsayıcıya göre boyutlandırır */
-    height: auto; /* Yüksekliği otomatik ayarlar */
-    display: block;
-    margin: 0 auto;
-  }
-</style>
-<img src="images/icon.png" alt="Icon"/>
+
+<img src="images/icon.png" alt="Icon" style="width: 200px; height: auto; display: block; margin: 0 auto; margin-left: auto; margin-right: auto;" />
 
 
 ## Recommended Extensions
