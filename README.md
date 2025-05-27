@@ -9,6 +9,19 @@
 
 <br />
 <hr/>
-<br />
+
+```shell
+## Make sure you have Node.js installed. Then run:
+
+$ npm install -g @vscode/vsce
+
+## You can use vsce to easily package and publish your extensions:
+
+$ cd myExtension
+$ vsce package
+# myExtension.vsix generated
+$ vsce publish
+# <publisher id>.myExtension published to VS Code Marketplace
+```
 
 Tavsiye edilen eklentiler.
