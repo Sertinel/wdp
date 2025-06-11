@@ -7,7 +7,7 @@
 <img src="images/icon.png" alt="WDP Icon" style="width: 200px; height: auto; display: block; margin: 0 auto;" />
 
 VS Code için derlenmiş eklenti paketi:
-[WDP (Web Developer Packs)]()
+[WDP (Web Developer Packs)](https://github.com/Sertinel/wdp/releases/tag/v0.0.2)
 
 ---
 
